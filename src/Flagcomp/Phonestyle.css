@@ -1,0 +1,69 @@
+.body{
+background-color: aqua;
+}
+.container{
+    background-color:rgb(199, 232, 245);
+    width:380px;
+    height:400px;
+   
+    /* text-align: center; */
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+}
+.selectbutton{
+    justify-content: center;
+    padding-top: 50px;
+    padding-right: 40px;
+}
+.selectstyle{
+    width: 140px;
+}
+.phonefield{
+    /* border-radius: 25px; */
+    /* border: 2px solid #609; */
+    width:250px;
+    /* text-align: center; */
+    /* vertical-align: middle */
+    padding-left:50px;
+    padding-top: 20px;
+}
+
+
+.flag-dropdown {
+    height: 30px;
+    width:40px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    border-radius: 20px;
+    border: 10px solid rgb(152, 149, 149);
+}
+.flag-dropdown-open {
+    border: 10px solid rgb(27, 27, 144);
+    border-radius: 20px;
+    outline-color: rgb(199, 28, 28);
+    outline-width: 2em;
+   
+}
+.form-control {
+ height: 50px;
+ border-radius: 80px;
+ border: 15px solid;
+ width: 250px;
+}
+.country-list {
+    border-radius: 25px; 
+}
+.react-tel-input-phonefield{
+    background-color: pink;
+}
+.selected-flag open{
+    height: 20px;
+    width: 25px;
+}
+.flag{
+    height: 10px;
+    width: 15px;
+}

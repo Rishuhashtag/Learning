@@ -1,0 +1,115 @@
+body{
+    text-align: center;
+    background:lightblue
+}
+.header{
+    color:rgb(227, 227, 237);
+}
+.headertext{
+    text-align: center;
+    color:rgb(237, 229, 229);
+    
+}
+.logo{
+    width:25px;
+    padding:5px;
+    height:25px;
+    vertical-align: middle;
+
+}
+.logosignup{
+        width:40px;
+        padding:15px;
+        height:35px;
+        vertical-align: middle;
+}
+.Signin{
+    background:rgb(9, 206, 61);
+    width:70%;
+    padding:15px 15px;
+    height:3px;
+    border-radius:15px; 
+    text-align: center;  
+}
+.Textfield{
+    background:rgb(238, 239, 232);
+    border-radius:15px;
+    padding: 10px;
+    width: 200px;
+    height: 5px;
+    text-align: center;
+    font-family: sans-serif,bold;   
+}
+.textlabel{
+    color:black;
+}
+.labeltext{
+    display:inline-block;
+}
+.check{
+    text-align: left;
+}
+button:hover { 
+    opacity: 0.7; 
+}
+.container {
+    width: 300px;
+    height: 500px;
+    padding: 25px 30px;
+    background-color: rgb(55, 55, 52);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #066;
+    border-radius:15px;
+}
+.container2 {
+    width: 900px;
+    height: 800px;
+    padding: 25px 30px;
+    background-color: #6e676e;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: rgb(18, 21, 21);
+    border-radius:15px;
+}
+.Signuptextfield{
+    background:rgb(237, 245, 195);
+    padding: 10px;
+    width: 200px;
+    height: 5px;
+    text-align: none;
+    font-family: sans-serif,bold;   
+}
+.Birthtextfield{
+    background:rgb(238, 239, 232);
+    padding: 10px;
+    width: 200px;
+    height: 5px;
+    text-align: center;
+    font-family: sans-serif,bold; 
+}
+.Radiocheck{
+    color:darkblue;
+}
+.Signup{
+    background:rgb(9, 206, 61);
+    width:40%;
+    padding:15px 15px;
+    height:3px;
+    border-radius:15px; 
+    text-align: center;  
+}
+.Google{
+    background:rgb(96, 171, 225);
+    width:300px;
+    padding:15px 15px;
+    height:3px;
+    border-radius:15px; 
+    text-align: center; 
+}
+/* box-shadow: 0 0 5px rgb(244, 240, 240); */
+/* border: 1px solid rgb(247, 242, 242); */
