@@ -12,6 +12,7 @@ import SimpleInterest from './Simple/Interest';
 import './Simple/Interest.css';
 import {SliderComp} from './Simple/Sliderr';
 import SliderMaterial from './Simple/Sliderm';
+import MonthCalendar from './Calendar/Monthcal';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -25,11 +26,12 @@ root.render(
    {/* <FormUstate /> */}
    {/* <ConPhone /> */}
 
- <SimpleInterest />
+ {/* <SimpleInterest /> */}
 
  {/* <SliderMaterial /> */}
  {/* <SliderComp /> */}
   
+  <MonthCalendar />
   
     </div>
     {/* <div> 
