@@ -42,7 +42,7 @@ function App() {
 /* <NewColor /> */
 
 // {/* <ConPhone /> */}
-<Sinterest /> 
+{/* <Sinterest />  */}
 // {/* <SliderComp /> */}
 );  
 }

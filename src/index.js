@@ -11,7 +11,7 @@ import ConPhone from './Flagcomp/Phone';
 import SimpleInterest from './Simple/Interest';
 import './Simple/Interest.css';
 import {SliderComp} from './Simple/Sliderr';
-
+import SliderMaterial from './Simple/Sliderm';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -26,6 +26,8 @@ root.render(
    {/* <ConPhone /> */}
 
  <SimpleInterest />
+
+ {/* <SliderMaterial /> */}
  {/* <SliderComp /> */}
   
   
